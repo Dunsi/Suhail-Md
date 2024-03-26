@@ -77,7 +77,7 @@ module.exports = {
   author : process.env.PACK_AUTHER|| "RAY-MD",
   packname: process.env.PACK_NAME || "♥️",
   botname : process.env.BOT_NAME  || "RAY-MD",
-  ownername:process.env.OWNER_NAME|| "It'x Raymond",
+  ownername:process.env.OWNER_NAME|| "Raymond",
 
 
   errorChat : process.env.ERROR_CHAT || "",
@@ -92,7 +92,7 @@ module.exports = {
 
   aitts_Voice_Id : process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY  || "",
-  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "private",
+  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "public",
   LANG: ( process.env.THEME ||  "SUHAIL"  ).toUpperCase(),
 
 
