@@ -7,7 +7,7 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="samsamsun789@gmail.com"
+global.email ="bamigboyeraymond21@gmail.com"
 global.location="ekiti, Nigeria."
 
 
@@ -17,7 +17,7 @@ global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
+global.github=process.env.GITHUB|| "https://github.com/Dunsi/Suhail-Md/edit/main/config.js";
 global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/DrkuCkLXUs32wyBFmBnSUA";
 global.website=process.env.GURL || "https://chat.whatsapp.com/DrkuCkLXUs32wyBFmBnSUA" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg" ; // SET LOGO FOR IMAGE 
